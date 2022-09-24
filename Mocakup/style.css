@@ -1,0 +1,211 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.icon {
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+    justify-content: space-evenly;
+    margin-top: 25px;
+    padding-top: 30px;
+    margin-left: 65%;
+    text-decoration: none;
+}
+
+.title {
+    align-items: center;
+    margin-left: 40%;
+    padding: 20px;
+}
+
+.menu {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 5%;
+   
+}
+.contador{
+    background-color: black;
+    color: white;
+    width: 40px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 5px;
+}
+.carrito{
+    width: 30px;
+    height: 30px;
+    margin-left: 50px;
+}
+.busqueda {
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    
+}
+
+.bucador{
+    margin-right: 30%;
+}
+.btn1 {
+    width: 300px;
+    height: 40px;
+    border-color: black solid;
+    border-width: 3px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    margin-left: 37%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 12px;
+    border-radius: 0%;
+}
+
+.setion {
+    display: grid;
+    grid-template-columns: 45% 45%;
+    padding: 50px;
+    width: 85%;
+    margin-left: 100px;
+}
+
+.btn {
+    width: 100px;
+    height: 30px;
+    margin-top: 50px;
+    justify-self: center;
+    border-radius: 0%;
+    color: white;
+    background-color: black;
+}
+
+.setion3 {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    padding: 50px;
+    width: 65%;
+    margin-left: 200px; 
+
+    
+}
+
+.galery{
+    width: 300px;
+    height: 300px;
+    margin:10px;
+}
+
+.img1{
+    width: 550px;
+    height: 650px;
+}
+
+.logo{
+    width: 70px;
+    height: 3   0px;
+    display: inline;
+    vertical-align: middle;  
+    margin-left: 200px;
+}
+
+h4{
+    display: inline;
+    font-size: 30px;
+    margin-left: 5px;
+
+}
+.btonFollow{
+    margin-left: 42%;
+    width: 150px;
+    height: 40px;
+    border-radius: 0%;
+}
+.Followers{
+margin-left: 300px;
+
+}
+
+.btnLoad{
+    border-radius: 0%;
+    margin-left: 45%;
+    width: 130px;
+    height: 45px;
+}
+
+iframe{
+    width: 680px;
+    height: 480px;
+    margin-left: 25%;
+}
+.suscribe{
+    border: none;
+    border-bottom: 1px #1425 solid;
+    margin-top: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+    width: 300px;
+
+}
+.text{
+    display: inline;
+    margin: 10px;
+    
+}
+
+.form{
+    display: inline;
+    border: none;
+    height: 35px;
+    width: 200px;
+    background-color: rgb(228, 226, 226);
+    margin-bottom: 20px;
+    
+}
+
+.forms{
+    margin-left: 15%;
+    margin-top: 50px;
+    width: 900px;
+}
+
+.btnsubscribe{
+    margin-left: 8%;
+    border-radius: 0px;
+    width: 150px;
+    height: 45px;
+    border: 1px #797979 solid;
+}
+footer{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    width: 800px;
+    margin-left: 20%;
+    margin-top: 35px;
+    margin-bottom: 50px;
+    list-style: none;
+    
+}
+.redes{
+    display: inline;
+    width: 40px;
+    height: 40px;
+margin-left: 500px;
+    display: inline;
+    
+}
+p{
+    display: inline;
+    margin-left: 15px;
+    margin-right: 55px;
+}
+.followers{
+    display: block;
+    margin-left: 18%;
+}
